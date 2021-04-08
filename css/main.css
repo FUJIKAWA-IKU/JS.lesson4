@@ -1,0 +1,12 @@
+.carousel-list {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.carousel-item {
+  width: 50%;
+}
+
+.carousel-item img {
+  width: 100%;
+}
